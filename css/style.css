@@ -1,0 +1,514 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.container {
+    height: 3000px;
+    ;
+    width: 1020px;
+    margin: 0 auto;
+    background: white;
+
+}
+
+.navigation {
+    height: 32px;
+    background: white;
+    width: auto;
+
+}
+
+.batton_1 {
+    height: 32px;
+    width: 78px;
+    float: left;
+}
+
+.batton_2 {
+    height: 32px;
+    width: 82px;
+    float: left;
+}
+
+.batton_3 {
+    height: 32px;
+    width: 65px;
+    float: left;
+}
+
+.batton_4 {
+    height: 32px;
+    width: 65px;
+    float: left;
+}
+
+.Gap {
+    height: 32px;
+    width: 578px;
+    float: left;
+}
+
+
+
+
+
+
+
+.home {
+    height: 330px;
+    width: 1020px;
+    background: white;
+}
+
+.logo {
+    height: 50px;
+    width: 203.7px;
+}
+
+
+
+
+
+.menu {
+    height: 52px;
+    width: 1020px;
+    background: #1279D1;
+}
+
+.row_1 {
+    height: 50px;
+    width: 105.56px;
+    float: left;
+}
+
+.row_2 {
+    height: 50px;
+    width: 105.56px;
+    float: left;
+}
+
+.row_3 {
+    height: 50px;
+    width: 105.56px;
+    float: left;
+}
+
+.row_4 {
+    height: 50px;
+    width: 105.56px;
+    float: left;
+}
+
+.row_5 {
+    height: 50px;
+    width: 105.56px;
+    float: left;
+}
+
+.row_6 {
+    height: 50px;
+    width: 386.56px;
+    float: left;
+}
+
+.row_7 {
+    height: 50px;
+    width: 105.56px;
+    float: left;
+}
+
+.row_1 img {
+    height: 50px;
+    width: 105.56px;
+    float: left;
+}
+
+.row_2 img {
+    height: 40px;
+    width: 100px;
+    float: left;
+    margin-top: 5px;
+}
+
+.row_3 img {
+    height: 45px;
+    width: 100px;
+    float: left;
+}
+
+.row_4 img {
+    height: 45px;
+    width: 100px;
+    float: left;
+}
+
+.row_5 img {
+    height: 45px;
+    width: 100px;
+    float: left;
+}
+
+.row_7 img {
+    height: 45px;
+    width: 100px;
+    float: left;
+    margin-top: 2px;
+    margin-bottom: 0%;
+}
+
+
+
+.header {
+    height: 130px;
+    width: 645px;
+    background: white;
+    float: left;
+}
+
+.header h1 {
+    font-size: 30px;
+}
+
+
+.sidecontain {
+    height: 130px;
+    width: 300px;
+    background: white;
+    float: left;
+    right: 0%;
+}
+
+
+.box_1 {
+    height: 35px;
+    width: 300px;
+    background: white;
+}
+
+.box_1 img {
+    height: 46px;
+    width: 300px;
+}
+
+.box_2 {
+    height: 32px;
+    width: 100px;
+    background: white;
+}
+
+.box_3 {
+    height: 32px;
+    width: 100px;
+    background: white;
+    float: left;
+}
+
+.box_4 {
+    height: 32px;
+    width: 100px;
+    background: white;
+    float: left;
+}
+
+.box_5 {
+    height: 32px;
+    width: 100px;
+    background: white;
+    float: left;
+}
+
+.box_6 {
+    height: 32px;
+    width: 100px;
+    background: white;
+    float: left;
+}
+
+.box_7 {
+    height: 32px;
+    width: 100px;
+    background: white;
+    float: left;
+}
+
+.box_8 {
+    height: 32px;
+    width: 100px;
+    background: white;
+    float: left;
+}
+
+.adds {
+    height: 477px;
+    width: 645px;
+    background: white;
+    float: left;
+}
+
+.gap2 {
+    height: 20px;
+    width: 300px;
+    background: white;
+    float: left;
+}
+
+
+
+.sidebar {
+    height: 457px;
+    width: 300px;
+    background: white;
+    float: left;
+}
+
+.sidebar_row1 {
+    height: 32px;
+    width: 100px;
+    background: black;
+    float: left;
+}
+
+.sidebar_row2 {
+    height: 32px;
+    width: 100px;
+    background: #1279D1;
+    float: left;
+}
+
+.sidebar_row3 {
+    height: 32px;
+    width: 100px;
+    background: #1279D1;
+    float: left;
+}
+
+.sidebar_row1 p {
+    text-align: center;
+    color: white;
+
+}
+
+.sidebar_row2 p {
+    text-align: center;
+    color: white;
+
+}
+
+.sidebar_row3 p {
+    text-align: center;
+    color: white;
+
+}
+
+.sidebar_img {
+    height: 1523px;
+    width: 645px;
+    background: white;
+    float: left;
+}
+
+.sidebar_img img {
+    height: 363px;
+    width: 645px;
+}
+
+.Gaps3 {
+    height: 23px;
+    width: 645px;
+    background: white;
+}
+
+.text_1 {
+    height: 68px;
+    width: 645px;
+    background: white;
+}
+
+.Gaps4 {
+    height: 46px;
+    width: 645px;
+    background: white;
+}
+
+.BookName {
+    height: 45px;
+    width: 645px;
+    background: white;
+}
+
+.BookName h4 {
+    tab-size: 18px;
+    color: #1279D1;
+}
+
+.text_2 {
+    height: 23px;
+    width: 645px;
+    background: white;
+}
+
+.text_3 {
+    height: 23px;
+    width: 645px;
+    background: white;
+}
+
+.text_4 {
+    height: 23px;
+    width: 645px;
+    background: white;
+}
+
+.text_5 {
+    height: 23px;
+    width: 645px;
+    background: white;
+}
+
+.text_6 {
+    height: 23px;
+    width: 645px;
+    background: white;
+}
+
+.text_7 {
+    height: 23px;
+    width: 645px;
+    background: white;
+}
+
+.newdiv {
+    height: 173px;
+    width: 645px;
+    background: white;
+}
+
+.Gaps5 {
+    height: 23px;
+    width: 645px;
+    background: white;
+}
+
+.bookinfo {
+    height: 23px;
+    width: 645px;
+    background: white;
+}
+
+.bookinfo h4 {
+    tab-size: 18px;
+    color: #1279D1;
+}
+
+.Gaps6 {
+    height: 23px;
+    width: 645px;
+    background: white;
+}
+
+.info2 {
+    height: 68px;
+    width: 645px;
+    background: white;
+}
+
+.Gaps7 {
+    height: 46px;
+    width: 645px;
+    background: white;
+}
+
+.bookinfo2 {
+    height: 46px;
+    width: 645px;
+    background: white
+}
+
+.bookinfo2 h4 {
+    tab-size: 18px;
+    color: #1279D1;
+}
+
+.info2_1 {
+    height: 82px;
+    width: 645px;
+    background: white
+}
+
+.Gaps8 {
+    height: 46px;
+    width: 645px;
+    background: white;
+}
+
+.bookinfo3 {
+    height: 46px;
+    width: 645px;
+    background: white
+}
+
+.bookinfo3 h4 {
+    tab-size: 18px;
+    color: #1279D1;
+}
+.info3_1{
+    height: 68px;
+    width: 645px;
+    background: white
+}
+.Gaps9{
+    height: 46px;
+    width: 645px;
+    background: white;
+}
+.BookName2{
+    height: 23px;
+    width: 645px;
+    background: white;
+}
+.BookName2 p{
+tab-size: 14px;
+text-align: center;
+}
+.lastdiv{
+    height: 23px;
+    width: 645px;
+    background: white;
+}
+.lastdiv_row_1{
+    height: 23px;
+    width: 161.25px;
+    background: white;
+    float: left;
+}
+.lastdiv_row_2{
+    height: 23px;
+    width: 141px;
+    background: #1279D1;
+    float: left;
+    border-radius: 4px;
+}
+.lastdiv_row_3{
+    height: 23px;
+    width: 20px;
+    background: white;
+    float: left;
+}
+.lastdiv_row_4{
+    height: 23px;
+    width: 138px;
+    background: #1279D1;
+    float: left;
+    border-radius: 4px;
+}
+.lastdiv_row_2 img{
+    height: 20px;
+    width: 125px;
+    border-radius: 4px;
+}
+.lastdiv_row_4 img{
+    height: 20px;
+    width: 125px;
+    border-radius: 4px;
+}
